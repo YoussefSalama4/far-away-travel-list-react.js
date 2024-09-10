@@ -140,3 +140,20 @@ input[type="checkbox"] {
   font-weight: 700;
   padding: 3.2rem 0;
 }
+@media (max-width: 1000px) {
+  html {
+    font-size: 50%;
+  }
+}
+
+@media (max-width: 550px) {
+  html {
+    font-size: 35%;
+  }
+}
+
+@media (max-width: 300px) {
+  html {
+    font-size: 25%;
+  }
+}
